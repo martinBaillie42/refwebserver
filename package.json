@@ -1,0 +1,12 @@
+{
+  "name": "refwebserver",
+  "version": "1.0.0",
+  "description": "A reference Web Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./index.js"
+  },
+  "author": "Martin Baillie",
+  "license": "ISC"
+}
